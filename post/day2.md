@@ -2,12 +2,12 @@
 
 HELLO , reader today it was my second day of training at RYAZ.IO but also today there was my praticial exam, at my college too .
 After my exam I started working on my training today  in the evening firstly is started with my pending work i.e. learning GIT  and learnt commands like
-*git add.
-*git rm.
-*git mv .
-*git commit.
-*git diff.
-*git diif using VISIUAL STUDIO CODE. 
+* git add.
+* git rm.
+* git mv .
+* git commit.
+* git diff.
+* git diif using VISIUAL STUDIO CODE. 
 
 and many more. When I  completed my GIT's lecture I reported to my mentor AMANJOT SINGH .
 
