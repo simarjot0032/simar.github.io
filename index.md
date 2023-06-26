@@ -1,5 +1,5 @@
 ---
-title: simarjots blog
+title: simarjot blog
 ---
 my personal blog links
 
