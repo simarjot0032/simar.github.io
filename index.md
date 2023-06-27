@@ -12,7 +12,7 @@ blog [day3](https://simarjot0032.github.io/simar.github.io/post/day3)
 
 blog [day4](https://simarjot0032.github.io/simar.github.io/post/2023-06-26-firstblogongit)
 
-blog [dya5](https://simarjot0032.github.io/simar.github.io/post/DAY5.html)
+blog [day5](https://simarjot0032.github.io/simar.github.io/post/DAY5.html)
 
 
 
