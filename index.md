@@ -14,5 +14,6 @@ blog [day4](https://simarjot0032.github.io/simar.github.io/post/DAy4.html)
 
 blog [day5](https://simarjot0032.github.io/simar.github.io/post/DAY5.html)
 
+blog [day6]( https://simarjot0032.github.io/simar.github.io/post/Day6.html)
 
 
