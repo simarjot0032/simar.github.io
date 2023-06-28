@@ -10,7 +10,7 @@ Hi , reader today it was my day 6 in training at **RYAZ.io** .Today firstly star
     * margin
     * contend and border
 * Typography
-and so on.Today I aldo met my mentor(AMANJOT SINGH).  I discuss with him about new technology and about the thing I have learnt till now . Also he suggest me some another resources for **CSS3** .So I again started with the new course in which about learn about:
+and so on.Today I also met my mentor(AMANJOT SINGH).  I discuss with him about new technology and about the thing I have learnt till now . Also he suggest me some another resources for **CSS3** .So I again started with the new course in which about learn about:
 * Introduction to CSS
 * Types to include css to our html
 * Basic selectores
