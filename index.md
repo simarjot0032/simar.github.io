@@ -1,8 +1,6 @@
 ---
 title: simarjot blog
-header: none
-minima:
-  skin: dark
+
 ---
 my personal blog links
 
@@ -24,11 +22,4 @@ blog [Day5](https://simarjot0032.github.io/simar.github.io/post/DAY5.html)
 blog [Day6]( https://simarjot0032.github.io/simar.github.io/post/Day6.html)
 
 
-<style>
-  .footer {
-    display: none;
-  }
-  .header{
-    display:none
-  }
-</style>
+
