@@ -25,4 +25,3 @@ blog [Day6]( https://simarjot0032.github.io/simar.github.io/post/Day6.html)
 blog [Day7](https://simarjot0032.github.io/simar.github.io/post/day7.html)
 
 
-
