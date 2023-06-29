@@ -1,6 +1,6 @@
 ---
 title: simarjot blog
-header: blog
+header: none
 minima:
   skin: dark
 ---
@@ -20,3 +20,11 @@ blog [day5](https://simarjot0032.github.io/simar.github.io/post/DAY5.html)
 blog [day6]( https://simarjot0032.github.io/simar.github.io/post/Day6.html)
 
 
+<style>
+  .footer {
+    display: none;
+  }
+  .header{
+    display:none
+  }
+</style>
