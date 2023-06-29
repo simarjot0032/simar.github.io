@@ -1,6 +1,6 @@
 ---
 title: simarjot blog
-header:
+header: blog
 minima:
   skin: dark
 ---
