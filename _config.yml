@@ -1,3 +1,4 @@
 theme: minima
 header: Simarjot Singh blog
-skin: dark 
+minima:
+  skin: dark
