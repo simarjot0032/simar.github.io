@@ -1,5 +1,8 @@
 ---
 title: simarjot blog
+header:
+minima:
+  skin: dark
 ---
 my personal blog links
 
