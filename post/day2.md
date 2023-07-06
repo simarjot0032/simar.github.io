@@ -1,4 +1,4 @@
-## DAY-2
+#DAY-2
 
 HELLO , reader today it was my second day of training at RYAZ.IO but also today there was my praticial exam, at my college too .
 After my exam I started working on my training today  in the evening firstly is started with my pending work i.e. learning GIT  and learnt commands like

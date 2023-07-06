@@ -1,4 +1,4 @@
-# DAY-6
+#DAY-6
 
 Hi , reader today it was my day 6 in training at **RYAZ.io** .Today firstly started with learning with **CSS3** ,I learnt :
 * Size and units

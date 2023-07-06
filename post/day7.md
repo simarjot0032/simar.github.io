@@ -1,4 +1,4 @@
-# DAY-7
+#DAY-7
 
 Hi, reader today it was my 7 day in traininf at **RYAZ.io** .Today first I continue will learning with css and I learn:
 * About relational selectors 

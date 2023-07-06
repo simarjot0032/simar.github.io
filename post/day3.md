@@ -1,4 +1,4 @@
-## DAY-3
+#DAY-3
 
 Hi reader today it was my 3rd day of training at RYAZ.IO 
 Today I firstly started with completing my previous work i.e. to learning of GIT.Today I came to understand working,concept,different commnands and their flags

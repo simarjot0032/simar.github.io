@@ -1,4 +1,4 @@
-# DAY9
+#DAY9
 
 Hi, reader today was my day9 of training at **RYAZ.io** today I learnt about Typography in css :
 * how to change font style
