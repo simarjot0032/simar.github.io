@@ -6,5 +6,6 @@ Hi, reader today it was my day 13 of training at **RYAZ.io** and today I worked 
 * how to make cards 
 * how to use media quries effeciently
 * how to make proper search bar
+* how to apply transformation
    
-and so on I also faced my diffulites in make responsiveness but at end trying  some properties I made to achieve it .
+and so on and I have developed some cards for webpage as well as  I also faced my diffulites in make responsiveness but at end applying and trying  some properties I made to achieve it .
