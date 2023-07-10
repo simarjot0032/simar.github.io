@@ -2,7 +2,7 @@ DAY-16
 
 Hi , reader today it was my day 16 fot training at **RYAZ.io** and today I have done my things like:
 
-* Completed my [webpage]()
+* Completed my [webpage](https://simarjot0032.github.io/sampleproject/html/index.html)
 * Solved game for flexbox
 * Solved game gor grid
 * Started to design another webpage
