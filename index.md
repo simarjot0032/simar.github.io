@@ -42,8 +42,12 @@ blog [Day15](https://simarjot0032.github.io/simar.github.io/post/Day15.html)
 
 blog [Day16](https://simarjot0032.github.io/simar.github.io/post/Day16.html)
 
+
 blog [Day17](https://simarjot0032.github.io/simar.github.io/post/Day17.html)
 
 blog [Day18](https://simarjot0032.github.io/simar.github.io/post/Day18.html)
 
 blog [Day19](https://simarjot0032.github.io/simar.github.io/post/Day19.html)
+
+
+

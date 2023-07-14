@@ -1,10 +1,9 @@
 DAY-19
 
-Hi, erader  today it was my day 19 of training at **RYAZ.io** and today I done many things:
+* Had a call
+* Completed with apple watch design 
+* Completed with the animation
+* Setup github pages 
+* Updates my pages for effectively using jeklly
 
-* Completed th Skripre webpage
-* Added reponsiveness
-* Learnt how to use image as background of charactres
-* Updated the github pages for using jeklly
-
-and so on I done my webpage  foo practicing and to enchance my css skills  and Iin next days I will be doing javascript for adding functionalities for my webpage  and also I have update the comfig.yml files for my blogging wewbsite . Also I have updated some other files for my blogging sites.
+and so on I had a call with my mentor (**AMANJOT SINGH**) and in which he told me about the mistakes on which I have to worked on for Apple Watch Design Page  and he also helped me in setting up my github pages and then I started on on making the landing page more exact and I also completed the animation project .Then I updated my code for github pages  . And I will be  start working on  my next project in next days
