@@ -21,3 +21,5 @@ Hi, reader  today it was my day 21 of training at **RYAZ.io** and today I starte
     * For of loop
 * Console function
 * Basics of array ,objects, functions, constants
+
+ and son on I have faced some diffuclites in for of and for in loops as as compared to other languages like JAVA it was new to new but I was able to understand at the end and I found javascript really intresting.
