@@ -8,7 +8,6 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
 * How to select an element using dom
     * getElementById:
     ```javascript
-    
     {
     let getid=document.getElementById('id');
     console.log(getid);
@@ -16,14 +15,15 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     ```
     * getElementByClassName
     ```javascript
-    {let getclass=document.getElementsByClassName('classname')
+    {
+    let getclass=document.getElementsByClassName('classname')
     console.log(getclass);
     }
     ```
     * getElementByTagName
     ```javascript
     {
-        let gettag=document.getElementsByTagName('tagname');
+    let gettag=document.getElementsByTagName('tagname');
     console.log(gettag);
     }
     ```
@@ -39,7 +39,6 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     {
         let getquall=document.querySelectorAll('.class_name');
         console.log(getquall);
-
     }
     ```
 * How to style an element
@@ -48,7 +47,6 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
         let headings=document.getElementsByClassName('heading')[0];
         headings.style.color='red';
         console.log(headings);
-
      }
      ```
     ```javascript
@@ -71,10 +69,11 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     target.append(another_div);
   }
   ```
-
 * What is dom tree
 * How to know the sibling of and element
-  
+
+
+
 
     ```javascript
     {
@@ -89,4 +88,5 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     }
     ```
 
+    
 and so on.Today I also learnt about the parent and child relationship in DOM .And I will be doing futher in next days.
