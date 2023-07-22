@@ -16,7 +16,7 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     * getElementByClassName
     ```javascript
     {
-    let getclass=document.getElementsByClassName('classname')
+    let getclass=document.getElementsByClassName('classname');
     console.log(getclass);
     }
     ```
