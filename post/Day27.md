@@ -88,5 +88,5 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     }
     ```
 
-    
-and so on.Today I also learnt about the parent and child relationship in DOM .And I will be doing futher in next days.
+
+and so on.Today I also learnt about the parent and child relationship in DOM.Today I have faced many difficulties in solving the problem in selecting a class with for elemnts but I found the error and correct it as we have to use loop for this.And I will be doing futher in next days.
