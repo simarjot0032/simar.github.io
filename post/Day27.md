@@ -1,6 +1,7 @@
 DAY-27
 
 
+
 Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt many things:
 
 
@@ -74,6 +75,7 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
 * What is dom tree
 * How to know the sibling of and element
   
+
     ```javascript
     {
     box=document.getElementsByClassName('box');
@@ -87,4 +89,4 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
     }
     ```
 
-and so on.Today I also learnt about the parent and child relationship in DOM .And I will be doing futher in next days
+and so on.Today I also learnt about the parent and child relationship in DOM .And I will be doing futher in next days.
