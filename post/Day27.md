@@ -6,7 +6,7 @@ Hi,reader today it was my day 27 of training at **RYAZ.io** and today I learnt m
 
 
 * How to select an element using dom
-  * getElementById:
+    * getElementById:
     ```javascript
     
     {
