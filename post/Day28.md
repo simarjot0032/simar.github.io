@@ -21,7 +21,8 @@ Hi , reader today it was my day 28 of training at **RYAZ.io** today I learnt abo
         reveal.classList.add('reveal');
     }}
     show.addEventListener('click',reveall)
-  }```
+  }
+  ```
   
 
 and so on. I have also undeerstand how to hide and unhide some content on html using events which also helped we to understand how the navigavition bar works on phone and I have made that so that I could undrstand more in detail. And I will be learning futher in next days.
