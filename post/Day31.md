@@ -8,4 +8,4 @@ Hi , reader today it was my day y31 of training at **RYAZ.io** adn today I learn
 * Made a stopwatch ui
 * How to use setinteval
 
-and so on . Toady  have completed accordion and started stopwatch in which I have completed  ui design and I will be addin functionality and will be learning more in next days
+and so on . Toady  have completed accordion in which I was facing some issues but later on I was able to solves it and started stopwatch in which I have completed  ui design and some of javascript  I will be adding full functionality and some other javascript so that my stop watch should work well we can use this  and will be learning more in next days
