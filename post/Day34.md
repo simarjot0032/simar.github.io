@@ -20,7 +20,7 @@ Hi ,reader today it was my day 34 of training at **RYAZ.io** and toady I have le
   }
   ```
 
-* How to use textcontent
+* How to use textcontent.
 * How to use readonly and value attribute in js efficienty 
 
 
