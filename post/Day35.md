@@ -1,0 +1,15 @@
+DAY-35
+
+
+Hi , reader today it was my day 35 of training at **RYAZ.io** and today I have learnt manythings:
+
+
+* Completed color flipper
+* Completed counter
+* Completed review
+* How to use window onload
+* how to use ::before and :: after more effectively
+* How to use unicode in css
+* Started navbar project
+
+ and so on.Today I have made many projects but all of them have helped me in improving in my logic building concept and now I have also use navigator object in js for providing vibration in counter on click event listner on button and I will be completing navebar and doing more projects in my futher days. 
