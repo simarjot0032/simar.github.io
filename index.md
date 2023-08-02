@@ -93,3 +93,5 @@ blog [Day34](https://simarjot0032.github.io/simar.github.io/post/Day34.html)
 
 
 blog [Day35](https://simarjot0032.github.io/simar.github.io/post/Day35.html)
+
+blog[Day36]()
