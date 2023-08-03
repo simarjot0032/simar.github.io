@@ -94,4 +94,8 @@ blog [Day34](https://simarjot0032.github.io/simar.github.io/post/Day34.html)
 
 blog [Day35](https://simarjot0032.github.io/simar.github.io/post/Day35.html)
 
-blog[Day36](https://simarjot0032.github.io/simar.github.io/post/Day36.html)
+blog [Day36](https://simarjot0032.github.io/simar.github.io/post/Day36.html)
+
+
+
+blog [Day37](https://simarjot0032.github.io/simar.github.io/post/Day37.html)
